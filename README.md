@@ -20,6 +20,6 @@ ___
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/figma.png" alt="Figma" />
  </p>
 
-### 📊 Github Stats
+### Github Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shums89&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shums89&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
