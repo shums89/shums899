@@ -14,6 +14,8 @@ ___
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/css.png" alt="CSS3" />
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/js.png" alt="JavaScript" />
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/sass.png" alt="Sass" />
+  <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/gulp.png" alt="Gulp" />
+  <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/webpack.png" alt="Webpack" />
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/git.png" alt="Git" />
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/github.png" alt="Github" />
   <img style="vertical-align:top; margin:4px; height:32px" src="img/dev/vscode.png" alt="Visual Studio Code" />
